@@ -1,1 +1,3 @@
 This' a critical message that I'm gonna ammend into the prev commit along w this new file
+
+COmmit #2 during squash activity
